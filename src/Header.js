@@ -1,5 +1,3 @@
-import react from 'react'; 
-import ReactDOM from 'react-dom'; 
 import img from './images/logo.JPG';
 import img1 from './images/cart.jpg';
 

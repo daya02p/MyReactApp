@@ -1,6 +1,5 @@
 export default function Filter (){
 return(
-
     <div className = "appFilter">
         <h2>Filter</h2>
         <ul className = 'filterList'>
@@ -8,7 +7,6 @@ return(
             <li>Andriod</li>
             <li>TV</li>
             <li>AC</li>
-
         </ul>
     </div>
 );
